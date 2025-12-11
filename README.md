@@ -52,4 +52,7 @@ Supports password entry, validation, and a Change Password feature implemented i
 
 ## Project Code
 
-The complete code is contained in the main.c file.
+The complete code is contained in the main.c file and a hex file for simulation purposes is included alongwith it.
+
+## Author
+- [@Abhinav-1604](www.github.com/Abhinav-1604)
