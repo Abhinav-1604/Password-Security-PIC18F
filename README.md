@@ -28,28 +28,8 @@ Supports password entry, validation, and a Change Password feature implemented i
 - Breadboard
 
 ## Circuit Connections
-LCD (4-bit Mode)
-LCD Pin	PIC18F452 Pin
-RS	RB0
-EN	RB1
-D4	RB4
-D5	RB5
-D6	RB6
-D7	RB7
-RW	GND
-Keypad
-Keypad Line	PIC Pin
-Row 1	RC0
-Row 2	RC1
-Row 3	RC2
-Row 4	RC3
-Column 1	RC4 (with 4.7k pull-down)
-Column 2	RC5 (with 4.7k pull-down)
-Column 3	RC6 (with 4.7k pull-down)
-LED Indicators
-LED	PIC Pin
-Red	RD2
-Green	RD3
+![Circuit Diagram](./circuit-diagram.png)
+
 ## How It Works
 
 - The system begins by displaying "Enter Password:" on the LCD.
